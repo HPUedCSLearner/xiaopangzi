@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
-title: Example Site
+title: 小胖子酋长
 copyright: Example Person
 
 # Theme i18n support
@@ -16,7 +16,7 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: 小胖子酋长
         weight: 1
         params:
             description: Example description
@@ -63,7 +63,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 个人兴趣记录
         avatar:
             enabled: true
             local: true
