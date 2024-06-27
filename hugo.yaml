@@ -22,7 +22,7 @@ languages:
             description: Example description
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: 小胖子酋长
         weight: 2
         params:
             description: 演示说明
@@ -62,12 +62,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 🍖
         subtitle: 个人兴趣记录
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/二哈.png
 
     article:
         math: false
@@ -211,7 +211,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/HPUedCSLearner
           params:
               icon: brand-github
 
@@ -219,7 +219,13 @@ menu:
           name: Twitter
           url: https://twitter.com
           params:
-              icon: brand-twitter
+              icon: clock
+
+        - identifier: bilibili
+          name: bilibili
+          url: https://bilibili.com
+          params:
+              icon: genetic-data-svgrepo-com
 
 related:
     includeNewer: true

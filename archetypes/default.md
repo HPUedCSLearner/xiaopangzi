@@ -8,4 +8,16 @@ license:
 hidden: false
 comments: true
 draft: false
+
+
+tags: [
+    "markdown",
+    "css",
+    "html",
+    "themes",
+]
+categories: [
+    "themes",
+    "syntax",
+]
 ---
